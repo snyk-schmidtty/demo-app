@@ -1,0 +1,5 @@
+ignore:
+  SNYK-JAVA-ORGSPRINGFRAMEWORK-2330878:
+    - '*':
+        reason: CLI Based Ignore
+        expires: 2023-04-04T17:33:45.004Z
